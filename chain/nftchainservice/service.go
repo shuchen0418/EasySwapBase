@@ -8,8 +8,8 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/pkg/errors"
 
-	"github.com/ProjectsTask/EasySwapBase/chain/chainclient"
-	"github.com/ProjectsTask/EasySwapBase/xhttp"
+	"github.com/shuchen0418/EasySwapBase/chain/chainclient"
+	"github.com/shuchen0418/EasySwapBase/xhttp"
 )
 
 const defaultTimeout = 10 //uint s

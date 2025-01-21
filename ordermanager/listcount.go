@@ -8,9 +8,9 @@ import (
 	"github.com/pkg/errors"
 	"go.uber.org/zap"
 
-	"github.com/ProjectsTask/EasySwapBase/stores/gdb"
+	"github.com/shuchen0418/EasySwapBase/stores/gdb"
 
-	"github.com/ProjectsTask/EasySwapBase/logger/xzap"
+	"github.com/shuchen0418/EasySwapBase/logger/xzap"
 )
 
 type CollectionListed struct {

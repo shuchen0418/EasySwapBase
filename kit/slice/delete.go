@@ -3,7 +3,7 @@ package slice
 import (
 	"reflect"
 
-	mathUtil "github.com/ProjectsTask/EasySwapBase/kit/math"
+	mathUtil "github.com/shuchen0418/EasySwapBase/kit/math"
 )
 
 // Delete returns the slice that deletes n specified value and the number of actual deletions.

@@ -9,7 +9,7 @@ import (
 	"github.com/ethereum/go-ethereum/ethclient"
 	"github.com/pkg/errors"
 
-	logTypes "github.com/ProjectsTask/EasySwapBase/chain/types"
+	logTypes "github.com/shuchen0418/EasySwapBase/chain/types"
 )
 
 type Service struct {

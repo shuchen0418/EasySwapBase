@@ -9,8 +9,8 @@ import (
 	evmTypes "github.com/ethereum/go-ethereum/core/types"
 	"github.com/pkg/errors"
 
-	"github.com/ProjectsTask/EasySwapBase/chain"
-	logTypes "github.com/ProjectsTask/EasySwapBase/chain/types"
+	"github.com/shuchen0418/EasySwapBase/chain"
+	logTypes "github.com/shuchen0418/EasySwapBase/chain/types"
 )
 
 const hex = 16

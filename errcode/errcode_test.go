@@ -11,7 +11,7 @@ import (
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 
-	"github.com/ProjectsTask/EasySwapBase/kit/convert"
+	"github.com/shuchen0418/EasySwapBase/kit/convert"
 )
 
 func TestCodeToErr(t *testing.T) {

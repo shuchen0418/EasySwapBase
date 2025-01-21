@@ -1,4 +1,4 @@
-module github.com/ProjectsTask/EasySwapBase
+module github.com/shuchen0418/EasySwapBase
 
 go 1.21
 
@@ -15,7 +15,7 @@ require (
 	github.com/stretchr/testify v1.8.4
 	github.com/zeromicro/go-zero v1.5.5
 	go.opentelemetry.io/otel/trace v1.16.0
-	go.uber.org/zap v1.25.0
+	go.uber.org/zap v1.27.0
 	golang.org/x/crypto v0.14.0
 	google.golang.org/grpc v1.57.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1

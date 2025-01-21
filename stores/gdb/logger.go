@@ -11,7 +11,7 @@ import (
 	"github.com/go-stack/stack"
 	"gorm.io/gorm/logger"
 
-	"github.com/ProjectsTask/EasySwapBase/logger/xzap"
+	"github.com/shuchen0418/EasySwapBase/logger/xzap"
 )
 
 const (

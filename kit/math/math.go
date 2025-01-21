@@ -8,7 +8,7 @@ import (
 
 	"github.com/shopspring/decimal"
 
-	"github.com/ProjectsTask/EasySwapBase/kit/convert"
+	"github.com/shuchen0418/EasySwapBase/kit/convert"
 )
 
 // math package constants.
